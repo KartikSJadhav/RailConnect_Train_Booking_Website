@@ -1,20 +1,155 @@
+````markdown
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+
+# 🚆 RailConnect – Train Booking Website
+
+### Seamless Rail Journey Booking Platform Across India
+
+<img src="https://img.shields.io/badge/React-19-blue?style=for-the-badge&logo=react" />
+<img src="https://img.shields.io/badge/Vite-6-purple?style=for-the-badge&logo=vite" />
+<img src="https://img.shields.io/badge/TypeScript-5-blue?style=for-the-badge&logo=typescript" />
+<img src="https://img.shields.io/badge/TailwindCSS-4-cyan?style=for-the-badge&logo=tailwindcss" />
+
 </div>
 
-# Run and deploy your AI Studio app
+---
 
-This contains everything you need to run your app locally.
+## 📌 About The Project
 
-View your app in AI Studio: https://ai.studio/apps/f754636c-e7ed-4b5e-b7ad-8d0c73d38ec3
+**RailConnect** is a modern and responsive train booking website designed to simplify railway travel experiences.  
+The platform allows users to search trains, check real-time availability, book tickets, and manage journeys efficiently.
 
-## Run Locally
+Built using **React + Vite + TypeScript**, RailConnect delivers fast performance, a clean UI, and a smooth booking experience across all devices.
 
-**Prerequisites:**  Node.js
+---
 
+## ✨ Features
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+- 🔍 Search trains by source and destination
+- 📅 Real-time train schedules and availability
+- 🎫 Ticket booking interface
+- 👤 User-friendly responsive dashboard
+- ⚡ Fast and optimized performance with Vite
+- 🎨 Modern UI with Tailwind CSS
+- 🔐 Environment variable support using `.env`
+- 📱 Mobile-friendly design
+
+---
+
+## 🛠️ Tech Stack
+
+| Technology | Usage |
+|------------|-------|
+| React 19 | Frontend UI |
+| TypeScript | Type Safety |
+| Vite | Fast Development Build Tool |
+| Tailwind CSS | Styling |
+| Node.js | Runtime Environment |
+
+---
+
+## 📂 Project Structure
+
+```bash
+RailConnect/
+│── src/
+│── public/
+│── index.html
+│── package.json
+│── vite.config.ts
+│── tsconfig.json
+│── .env.example
+```
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+Make sure you have installed:
+
+- Node.js
+- npm
+
+---
+
+### Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/RailConnect.git
+
+# Navigate into project
+cd RailConnect
+
+# Install dependencies
+npm install
+```
+
+---
+
+## ▶️ Run the Project
+
+```bash
+npm run dev
+```
+
+Open in browser:
+
+```bash
+http://localhost:3000
+```
+
+---
+
+## 🔑 Environment Variables
+
+Create a `.env.local` file and add:
+
+```env
+GEMINI_API_KEY=your_api_key_here
+```
+
+---
+
+## 📸 Preview
+
+Add your project screenshots here.
+
+```markdown
+![Homepage](./screenshots/home.png)
+```
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome!
+
+1. Fork the project
+2. Create your feature branch
+3. Commit your changes
+4. Push to the branch
+5. Open a Pull Request
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+## 👨‍💻 Developer
+
+**Kartik S Jadhav**
+
+---
+
+<div align="center">
+
+⭐ Don't forget to star this repository if you found it useful!
+
+</div>
+````

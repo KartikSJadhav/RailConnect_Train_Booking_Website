@@ -1,8 +1,4 @@
-````markdown
-<div align="center">
-
 # 🚆 RailConnect – Train Booking Website
-
 ### Seamless Rail Journey Booking Platform Across India
 
 <img src="https://img.shields.io/badge/React-19-blue?style=for-the-badge&logo=react" />
@@ -113,13 +109,17 @@ GEMINI_API_KEY=your_api_key_here
 
 ---
 
-## 📸 Preview
+## Project Overview 📽️
 
-Add your project screenshots here.
 
-```markdown
-![Homepage](./screenshots/home.png)
-```
+
+https://github.com/user-attachments/assets/30149ee3-fc80-48a8-a35f-ef114d07659c
+
+
+
+
+
+
 
 ---
 
@@ -152,4 +152,5 @@ This project is licensed under the MIT License.
 ⭐ Don't forget to star this repository if you found it useful!
 
 </div>
-````
+
+## 🧠 Built using Claude
